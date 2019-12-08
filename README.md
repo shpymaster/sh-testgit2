@@ -12,6 +12,8 @@ issue_2 resolved
 
 issue_3 resolved
 
+issue_4 resolved
+
 ## Description
 This module is for testung GitHub process.
 
