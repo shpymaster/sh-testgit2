@@ -10,6 +10,8 @@ issue_1 resolved
 
 issue_2 resolved
 
+issue_3 resolved
+
 ## Description
 This module is for testung GitHub process.
 
