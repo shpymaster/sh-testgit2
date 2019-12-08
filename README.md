@@ -6,6 +6,8 @@ test line 31
 
 test line 41
 
+issue_1 resolved
+
 ## Description
 This module is for testung GitHub process.
 
