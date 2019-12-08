@@ -8,6 +8,8 @@ test line 41
 
 issue_1 resolved
 
+issue_2 resolved
+
 issue_3 resolved
 
 ## Description
